@@ -1,25 +1,17 @@
 # projet_nave
 ---
+This program automates the calculation of Time Between Arrivals, Arrival Time, Duration of Operations, Start of Operations, End of Operations, Time in the System, Time Inactivity & Queues for a given number of ships. Inspired by my naval simulation course, it aims to simplify these calculations, which are often done manually, by taking random input values for inter-arrival times and operation durations.
 
-Simulation du TMP, TSG et TRG des navires
+Features
+✔ Automatic calculation of TBA, AT, DO, SO, EO, TS, TI & Q based on input data.
+✔ Process optimization to reduce errors and save time.
+✔ Simple and intuitive interface for quick use.
 
-Ce programme automatise le calcul du TMP (Temps Moyen de Passage), TSG (Temps de Séjour Global) et TRG (Temps de Rotation Global) pour un nombre donné de navires. Inspiré de mon cours de simulation navale, il vise à faciliter ces calculs, souvent réalisés manuellement, en prenant en entrée des valeurs aléatoires de temps entre les arrivées et de durée des opérations.
+Future Improvements
+🔹 Consideration of the number of operators.
+🔹 Priority management in operations.
+🔹 Addition of a graphical interface for better usability.
 
-Fonctionnalités
-
-✔ Calcul automatique du TMP, TSG et TRG à partir des données d’entrée.
-✔ Optimisation du processus pour réduire les erreurs et gagner du temps.
-✔ Interface simple et intuitive pour une utilisation rapide.
-
-Améliorations futures
-
-🔹 Prise en compte du nombre d’opérateurs.
-🔹 Gestion des priorités dans les opérations.
-🔹 Ajout d’une interface graphique pour une meilleure ergonomie.
-
-Pourquoi ce projet ?
-
-J’ai remarqué que certains de mes camarades avaient des difficultés à effectuer ces calculs manuellement. Ce programme leur permet de se concentrer sur l’analyse des résultats plutôt que sur les calculs eux-mêmes.
-
-
+Why This Project?
+I noticed that some of my classmates struggled with these manual calculations. This program allows them to focus on analyzing results rather than performing calculations.
 ---
