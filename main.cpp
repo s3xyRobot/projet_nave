@@ -5,7 +5,7 @@
 #include "global_variables.h"
 #include "interface.h"
 #include "create.h"
-#include "calcul.h"
+#include "calculations.h"
 
 
 int main() {
