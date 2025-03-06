@@ -2,9 +2,8 @@
 #ifndef VARIABLES_H
 #define VARIABLES_H
 #include <iostream>
-	/*
-		extern - to be able to use the variables everywhere the preprocessor would be found
-	*/
+
+//extern() - to be able to use the variables everywhere the preprocessor would be found
    extern int n;
    extern double Q_sum;
    extern double TS_sum;
