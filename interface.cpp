@@ -25,7 +25,7 @@ void Prompt(){
     for (int i = 0; i < n; ++i){
         std::cout<<"N"<<i+1<<" = ";
         std::cin >> tab_val;
-        std::cin.ignore(); // Ignorer le '-' et tout autre caractère entre ceux declaré
+        std::cin.ignore(); // Ignore any characters between those tab_val and do_val
         std::cin >> do_val;
         TAB[i] = tab_val;
         DO[i] = do_val;
