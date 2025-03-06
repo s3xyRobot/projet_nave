@@ -3,7 +3,6 @@
 
 #include <iostream>
 
-//create 2D-vector
 int** create_Tab2D(int &rows, int &cols);
 
 #endif
