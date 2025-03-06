@@ -7,7 +7,7 @@
 
 void calcul(){
 
-// Initialiser 
+// initialize 
     SO[0] = AT[0]; 
     EO[0] = SO[0] + DO[0];
     TI[0] = SO[0];
