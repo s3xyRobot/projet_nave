@@ -2,7 +2,7 @@
 #include <vector>
 #include <iomanip>
 //--------user libraries----------//
-#include "variables.h"
+#include "global_variables.h"
 #include "interface.h"
 #include "create.h"
 #include "calcul.h"
