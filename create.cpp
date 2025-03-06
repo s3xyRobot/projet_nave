@@ -1,7 +1,7 @@
 //create 2D table
 #include <iostream>
 #include <vector>
-#include "variables.h"
+#include "global_variables.h"
 #include "calcul.h"
 
 //create 2D-vector
