@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 #include "global_variables.h"
-#include "calcul.h"
+#include "calculations.h"
 
 //create 2D-vector
 int** create_Tab2D(int &rows, int &cols){
