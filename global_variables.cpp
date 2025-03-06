@@ -1,7 +1,7 @@
 // vectors.cpp
 #include <iostream>
 #include <vector>
-#include "variables.h"
+#include "global_variables.h"
 
 int n{10};
 double Q_sum{0};
