@@ -3,7 +3,7 @@
 #include <iomanip>//to use setw()
 //--------user libraries----------//
 #include "interface.h"
-#include "variables.h"
+#include "global_variables.h"
 
 
 void Prompt(){
