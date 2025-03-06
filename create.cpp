@@ -4,7 +4,6 @@
 #include "global_variables.h"
 #include "calculations.h"
 
-//create 2D-vector
 int** create_Tab2D(int &rows, int &cols){
     
     int**Tab_2D = new int*[rows];
