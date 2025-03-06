@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 //--------user libraries----------//
-#include "variables.h"
+#include "global_variables.h"
 #include "calcul.h"
 
 void calcul(){
