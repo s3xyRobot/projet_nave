@@ -1,4 +1,4 @@
-// globals.h
+// global_variables.h
 #ifndef VARIABLES_H
 #define VARIABLES_H
 #include <iostream>
